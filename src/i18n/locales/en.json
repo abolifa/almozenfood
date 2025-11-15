@@ -1,0 +1,110 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "products": "Products",
+    "contact": "Contact Us",
+    "facebook": "Facebook",
+    "email": "Email",
+    "menu": "Open Menu",
+    "close": "Close Menu",
+    "logo_alt": "Company Logo"
+  },
+  "hero": {
+    "title": "Almozen for Food Import",
+    "subtitle": "Premium-quality food products sourced from the best producers around the world",
+    "cta": "Discover More",
+    "logo_alt": "Almozen Logo"
+  },
+  "about": {
+    "title": "Who Are We?",
+    "p1_part1": "Almozen",
+    "p1_name": "Company",
+    "p1_part2": "is one of the leading companies in",
+    "p1_highlight": "food import",
+    "p1_part3": ", providing high-quality products from the best farms and factories around the world.",
+    "p2": "We believe that food is the foundation of health, so we are committed to selecting natural, fresh, and healthy products that meet the Libyan market needs according to the highest safety and quality standards.",
+    "cta": "Browse Our Products",
+    "img_alt": "About section image",
+    "shape1_alt": "Decorative shape",
+    "shape2_alt": "Decorative shape"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive food solutions tailored to the Libyan market with global standards.",
+    "line": "5rem",
+    "items": {
+      "import": {
+        "title": "Food Import",
+        "desc": "Supplying carefully selected products from the world's best farms and factories."
+      },
+      "bulk": {
+        "title": "Wholesale Supply",
+        "desc": "Providing all types of food products for shops and distributors in bulk quantities."
+      },
+      "storage": {
+        "title": "Storage & Cooling",
+        "desc": "Warehouses equipped with safety standards to preserve products in perfect condition."
+      },
+      "partners": {
+        "title": "Partnerships with Top Suppliers",
+        "desc": "International partnerships with major factories to supply high-quality products."
+      }
+    }
+  },
+  "products": {
+    "title": "What Do We Import?",
+    "subtitle": "A wide variety of carefully selected food products to meet the needs of the Libyan market.",
+    "line": "6rem",
+
+    "categories": {
+      "fruits": "Fresh Fruits & Vegetables",
+      "canned": "Canned Goods",
+      "grains": "Grains & Legumes",
+      "dairy": "Cheese & Dairy Products",
+      "flour": "Flour Products",
+      "oils": "Oils & Ghee"
+    },
+
+    "category_desc": "Carefully selected products to ensure excellent quality and taste."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Our team is ready to answer all your inquiries about Almozen’s services and products.",
+    "line": "6rem",
+
+    "info_title": "Contact Information",
+    "address": "Misurata - Libya",
+    "phone": "+218 91 215 9528",
+    "email": "info@almozenfood.com.ly",
+
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  },
+  "footer": {
+    "about_text": "Almozen — importing and supplying food products with top quality standards and international partnerships with leading global suppliers.",
+    "quick_links": "Quick Links",
+    "contact_title": "Contact Us",
+    "follow_us": "Follow Us",
+
+    "links": {
+      "home": "Home",
+      "about": "About Us",
+      "services": "Our Services",
+      "products": "Our Products",
+      "contact": "Contact Us"
+    },
+
+    "address": "Misurata - Libya",
+    "phone": "+218 91 215 9528",
+    "email": "info@almozenfood.com.ly",
+
+    "copy": "All rights reserved — Almozen Food Import Company"
+  }
+}
